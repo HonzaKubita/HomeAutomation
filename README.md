@@ -24,6 +24,4 @@ Every module contains an ESP8266 responsible for communication with the hub. The
 
 ## Contributing
 
-We encourage contributions to make this home automation platform even more powerful and versatile. Feel free to submit issues, feature requests, or pull requests on our GitHub repository.
-
-Let's build a connected and automated future for everyone!
+I encourage contributions to make this home automation platform even more powerful and versatile. Feel free to submit issues, feature requests, or pull requests on this GitHub repository.
