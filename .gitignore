@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+
+# Flask
+instance/
+.webassets-cache
+
+# IDE
+.vscode/
+.idea/
+*.pydevproject
+
+# Logs
+*.log
+logs/
